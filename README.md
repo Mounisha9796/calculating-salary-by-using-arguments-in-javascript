@@ -1,0 +1,1 @@
+# calculating-salary-by-using-arguments-in-javascript
